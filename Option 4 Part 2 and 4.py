@@ -77,4 +77,4 @@ y_train[3] = 1
 y_train[4] = 2
 
 print('Replaced testing images and their labels: ' + str([x[0] for x in y_train[0:5]]))
-print('Corresponding classes for the labels: ' + str([cifar_classes[x[0]] for x in y_train[0:5]]))
+print('Corresponding classes for the label values: ' + str([cifar_classes[x[0]] for x in y_train[0:5]]))
