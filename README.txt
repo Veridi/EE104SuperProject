@@ -2,6 +2,8 @@ Project Members: Mike Lin and Paul Payumo
 
 GITHUB Repository: https://github.com/Veridi/EE104SuperProject
 
+Images used for the final model MUST be in a folder titled "images" in the working directory. Please move the images into that folder before running the program.
+
 Instructions for Part 1:
 1)	Open the Anaconda Command Prompt
 2)	Install keras by typing in 'pip install keras'
